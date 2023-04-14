@@ -1,7 +1,6 @@
 
 
 Report:
-COMPSCI 711: Introduction to Machine Learning
 
 
 Dataset Description:
